@@ -21,7 +21,7 @@ export function LoadingScreen() {
     >
       <div className="flex flex-col items-center gap-6 text-center">
         <div className="text-5xl font-semibold tracking-[0.35em] text-slate-50 sm:text-6xl">
-          {['A', 'N', 'U', 'J'].map((letter, index) => (
+          {['A', 'N', 'U', 'S', 'H'].map((letter, index) => (
             <motion.span
               key={letter}
               initial={{ opacity: 0, y: 18 }}

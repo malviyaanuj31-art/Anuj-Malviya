@@ -15,12 +15,12 @@ export function HeroSection() {
           transition={{ duration: 0.6 }}
           className="max-w-3xl"
         >
-          <p className="mb-6 text-sm font-medium uppercase tracking-[0.35em] text-sky-400">Full Stack Developer • Student</p>
+          <p className="mb-6 text-sm font-medium uppercase tracking-[0.35em] text-sky-400">Computer Science Student</p>
           <h1 className="text-5xl font-semibold leading-[0.95] tracking-[-0.04em] text-slate-50 sm:text-7xl lg:text-8xl">
             ANUJ<br />MALVIYA
           </h1>
           <p className="mt-6 text-xl font-medium uppercase tracking-[0.35em] text-slate-400 sm:text-2xl">
-            FULL STACK DEVELOPER
+          COMPUTER SCIENCE ENGINEERING STUDENT
           </p>
           <p className="mt-8 max-w-2xl text-lg leading-8 text-slate-400 sm:text-xl">
             Computer Science Engineering student passionate about Full Stack Development, Data Structures & Algorithms, and Artificial Intelligence.
